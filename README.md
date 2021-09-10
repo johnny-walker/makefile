@@ -1,4 +1,4 @@
-# makefile tutorial
+# C/C++ makefile tutorial
 https://jasonblog.github.io/note/gunmake/makefilede_ji_ben_jie_gou.html
 
 –target（目標）：一個目標檔，可以是Object檔，也可 以是執行檔。還可以是一個標籤（Label）。\
